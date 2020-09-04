@@ -1,0 +1,4 @@
+1. Userii sa aiba posibilitatea de a edita, vedea si cauta doar studentii activi.
+//2. La crearea sau modicarea parolei de substituit cu *.
+3. După afișare trebuie sa fie posibilitatea de salvare a informației intr-un fișier de format text numele căruia este dat de către utilizator.
+4.
